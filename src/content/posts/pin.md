@@ -2,7 +2,7 @@
 title: 雪xie高の博客
 published: 2026-02-07
 description: 关于如何联系XieGao
-image: "https://api.dujin.org/bing/1920.php"
+image: "https://bing.biturl.top/?resolution=1920&format=image&index=0&mkt=zh-CN"
 tags: [公告]
 pinned: true
 ---
